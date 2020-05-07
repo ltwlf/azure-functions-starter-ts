@@ -1,3 +1,0 @@
-# The Docker image to run your workspace in. Defaults to gitpod/workspace-full
-image: mcr.microsoft.com/azure-functions/dotnet
-# Command to start on workspace startup
