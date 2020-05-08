@@ -5,7 +5,7 @@ It is free for open source projects and is just great to share your running code
 
 This is a template project that you can you use as starter for Node/JavaScript based Azure Functions.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/d603f04a-92c2-475c-94e0-b12d54f03816)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/ed390d54-0372-4a0e-9dd4-fc13462337e6)
 
 You can Either prefix the URL in the address bar of your browser with https://gitpod.io/#azure-functions-gitpod-node or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
