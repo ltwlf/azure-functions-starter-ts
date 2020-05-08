@@ -13,6 +13,8 @@ After you pod has launched I receommend to update the npm packages to the latest
 npm update --save/--save-dev
 ```
 
+## Getting Started
+
 Add a function
 ```
 npx func new
@@ -27,5 +29,25 @@ npx func start
 ```
 
 Or just debug with VSCode and the precofigured "Attach to Node Function" launch configuration.
+
+
+## Configure Function Storage
+
+All binding excepts the HttpTrigger need a configured blob storage. In our Gitpod we can use the [Azurite](https://www.npmjs.com/package/azurite) emulator as dev storage.
+
+Install the emulator
+```
+npm install --save-dev azurite
+```
+
+In *local.settings.json* replace {AzureWebJobsStorage} with 
+```
+DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;
+```
+
+Start the emulator
+```
+npx azurite-blob
+```
 
 Happy Func Coding!

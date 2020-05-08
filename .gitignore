@@ -42,4 +42,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# azurite
+__azurite_*
+
+# func tools
 azure-functions-core-tools
+__blobstorage__
