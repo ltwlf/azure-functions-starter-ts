@@ -3,9 +3,8 @@
 [Gitpod](https://www.gitpod.io/) is an online dev evinroment (based on VSCode) and can launch ready-to-code dev environments for your GitHub or GitLab project with a single click.
 It is free for open source projects and is just great to share your running code with the community.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/a0631df8-57eb-4e11-9b0b-e26c06265ed7)
-
 This is a template project that you can you use as starter for Node/JavaScript based Azure Functions.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/a0631df8-57eb-4e11-9b0b-e26c06265ed7)
 
 You can Either prefix the URL in the address bar of your browser with https://gitpod.io/#azure-functions-gitpod-node or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
