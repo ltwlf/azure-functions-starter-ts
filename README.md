@@ -52,4 +52,7 @@ Start the emulator
 npx azurite-blob
 ```
 
-Happy Func Coding!
+## Deploy to Azure
+Use the Azure Functions GitHub [Actions](https://github.com/marketplace/actions/azure-functions-action) to deploy your function project to [Azure](https://portal.azure.com).
+
+**Happy Func Coding!**
