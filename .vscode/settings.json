@@ -1,5 +1,4 @@
+
 {
-    "jest.pathToJest": "npm test --",
-    "jest.disabledWorkspaceFolders": ["/"],
-    "jest.debugMode": true
+    "jest.pathToJest": "npm test --"
 }
