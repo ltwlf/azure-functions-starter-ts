@@ -1,4 +1,4 @@
-import { httpTrigger } from './index'
+import httpTrigger from './index'
 
 const context =  { log: jest.fn() } as any
 
