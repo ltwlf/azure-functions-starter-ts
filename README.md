@@ -1,4 +1,4 @@
-# Azure Functions - TypeScript Starter (Gitpod)
+# Azure Functions - TypeScript Starter
 
 A starter project for TypeScript based Azure Functions with jest unit testing. 
 You can instantly start coding with Gitpod or clone the repo and work locally.
