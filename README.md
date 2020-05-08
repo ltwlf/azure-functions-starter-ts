@@ -1,5 +1,7 @@
 # Azure Functions - TypeScript Starter
 
+![Node.js CI](https://github.com/ltwlf/azure-functions-starter-ts/workflows/Node.js%20CI/badge.svg)
+
 A starter project for TypeScript based Azure Functions with jest unit testing. 
 You can instantly start coding with Gitpod or clone the repo and work locally.
 
