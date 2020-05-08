@@ -6,7 +6,7 @@ You can instantly start coding with Gitpod or clone the repo and work locally.
 [Gitpod](https://www.gitpod.io/) is an online dev evinroment (based on VSCode) and can launch ready-to-code dev environments for your GitHub or GitLab project with a single click.
 It is free for open source projects and is just great to share your running code with the community.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/b39f1120-998a-4516-8ef2-368b28e07dd8)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ltwlf/azure-functions-starter-ts)
 
 You can either prefix the URL in the address bar of your browser with https://gitpod.io/#https://github.com/ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
@@ -39,7 +39,7 @@ The starter is already configured for unit testing with jest and includes a samp
 
 Run tests
 ```
-npx test
+npm test
 ```
 
 ## Configure Function Storage
