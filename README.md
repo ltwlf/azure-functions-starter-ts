@@ -21,7 +21,7 @@ Add a function
 ```
 npx func new
 ```
-Choose Typescript, select template and enter the name for your func. When you use any other template then 'HttpTrigger' you need to configure the blob "AzureWebJobsStorage".
+Choose Typescript, select template and enter the name for your func. When you use any other template then 'HttpTrigger' you need to configure the "AzureWebJobsStorage" (see bellow).
 
 Build and start the func host
 
