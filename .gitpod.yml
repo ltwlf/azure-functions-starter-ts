@@ -4,3 +4,6 @@ tasks:
 ports:
   - port: 7071
     onOpen: open-preview
+vscode:
+  extensions:
+    - Orta.vscode-jest@3.2.0:adbRMTNfxv/Rzc4SOP/c3g==
