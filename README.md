@@ -6,9 +6,9 @@ You can instantly start coding with Gitpod or clone the repo and work locally.
 [Gitpod](https://www.gitpod.io/) is an online dev evinroment (based on VSCode) and can launch ready-to-code dev environments for your GitHub or GitLab project with a single click.
 It is free for open source projects and is just great to share your running code with the community.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/cc4ac4cd-e5ca-4160-895e-2645cdabbd4f)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/a5478149-f9ee-4fcf-b249-31fc0e887fe9)
 
-You can Either prefix the URL in the address bar of your browser with https://gitpod.io/#ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
+You can either prefix the URL in the address bar of your browser with https://gitpod.io/#ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
 After your Gitpod has launched or your cloned the project, you can upate the npm packages to the latest versions (optional)
 
