@@ -8,7 +8,7 @@ It is free for open source projects and is just great to share your running code
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/b39f1120-998a-4516-8ef2-368b28e07dd8)
 
-You can either prefix the URL in the address bar of your browser with https://gitpod.io/#ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
+You can either prefix the URL in the address bar of your browser with https://gitpod.io/#https://github.com/ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
 After your Gitpod has launched or your cloned the project, you can upate the npm packages to the latest versions (optional)
 
