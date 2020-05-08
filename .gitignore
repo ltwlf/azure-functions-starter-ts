@@ -48,3 +48,6 @@ __azurite_*
 # func tools
 azure-functions-core-tools
 __blobstorage__
+
+# test coverage
+coverage
