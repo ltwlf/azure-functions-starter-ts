@@ -1,16 +1,16 @@
 # Azure Functions - TypeScript Starter (Gitpod)
 
-This is a template project that you can you use to instantly code Azure Functions with the online dev environment Gitpod.
+A starter project for TypeScript based Azure Functions with jest unit testing. 
+You can instantly start coding with Gitpod or clone the repo and work locally.
 
 [Gitpod](https://www.gitpod.io/) is an online dev evinroment (based on VSCode) and can launch ready-to-code dev environments for your GitHub or GitLab project with a single click.
 It is free for open source projects and is just great to share your running code with the community.
 
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/cc4ac4cd-e5ca-4160-895e-2645cdabbd4f)
 
-You can Either prefix the URL in the address bar of your browser with https://gitpod.io/#azure-functions-gitpod-node or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
+You can Either prefix the URL in the address bar of your browser with https://gitpod.io/#ltwlf/azure-functions-starter-ts or push the Gitpod button if you have installed the Gitpod [extension](https://www.gitpod.io/docs/browser-extension/).
 
-After you pod has launched I recommend to update the npm packages to the latest version (optional)
+After your Gitpod has launched or your cloned the project, you can upate the npm packages to the latest versions (optional)
 
 ```
 npm update --save/--save-dev
@@ -33,6 +33,14 @@ npx func start
 
 Or just debug with VSCode and the precofigured "Attach to Node Function" launch configuration.
 
+## Tests
+
+The starter is already configured for unit testing with jest and includes a sample hello function with test.
+
+Run tests
+```
+npx test
+```
 
 ## Configure Function Storage
 
