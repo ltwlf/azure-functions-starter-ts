@@ -1,4 +1,4 @@
-# Azure Functions - TypeScript Starter
+# Azure Functions - TypeScript Starter (Gitpod)
 
 This is a template project that you can you use to instantly code Azure Functions with the online dev environment Gitpod.
 
