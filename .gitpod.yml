@@ -1,6 +1,6 @@
 tasks:
   - init: npm install
-    command: npx func start
+    command: npm run build && npx func start
 ports:
   - port: 7071
     onOpen: open-preview
