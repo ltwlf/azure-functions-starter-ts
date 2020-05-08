@@ -3,3 +3,4 @@ tasks:
     command: npx func start
 ports:
   - port: 7071
+    onOpen: open-preview
