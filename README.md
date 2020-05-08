@@ -1,4 +1,4 @@
-# Azure Functions Gitpod Starter Typescript
+# Azure Functions - Gitpod Starter Typescript
 
 [Gitpod](https://www.gitpod.io/) is an online dev evinroment (based on VSCode) and can launch ready-to-code dev environments for your GitHub or GitLab project with a single click.
 It is free for open source projects and is just great to share your running code with the community.
