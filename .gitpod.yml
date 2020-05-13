@@ -1,9 +1,14 @@
+image:
+  file: .gitpod.Dockerfile
 tasks:
   - init: npm install
-    command: npm run build && npm test && npx func start
-ports:
-  - port: 7071
-    onOpen: open-preview
+    command: |
+      npm run build && 
+      npm test && 
+      func start
+  - command: |
+      gp await-port 7071 && 
+      gp preview $(gp url 7071)
 vscode:
   extensions:
     - Orta.vscode-jest@3.2.0:adbRMTNfxv/Rzc4SOP/c3g==
